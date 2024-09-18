@@ -1,0 +1,16 @@
+{
+	"contenidoStr": "{\n  \"name\": \"tp2-tp2\",\n  \"version\": \"1.0.0\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"author\": \"\",\n  \"license\": \"ISC\",\n  \"description\": \"\",\n  \"type\": \"module\"\n}\n",
+	"contenidoObj": {
+		"name": "tp2-tp2",
+		"version": "1.0.0",
+		"main": "index.js",
+		"scripts": {
+			"test": "echo \"Error: no test specified\" && exit 1"
+		},
+		"author": "",
+		"license": "ISC",
+		"description": "",
+		"type": "module"
+	},
+	"size": 223
+}
